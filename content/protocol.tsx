@@ -1,3 +1,4 @@
+// Storage footprint and expiration ledger settings
 // Soroban smart contract architecture and function signatures
 import React from "react";
 import { CodeBlock } from "@/components/CodeBlock";
