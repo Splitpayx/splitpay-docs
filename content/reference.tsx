@@ -1,3 +1,4 @@
+// Complete error catalog
 // Contract and SDK API reference tables
 import React from "react";
 import { CodeBlock } from "@/components/CodeBlock";
