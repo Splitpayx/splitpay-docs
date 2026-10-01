@@ -1,3 +1,4 @@
+// splitpay-mobile React Native architecture
 import React from "react";
 import { Callout } from "@/components/Callout";
 import { TocItem } from "@/types/docs";
