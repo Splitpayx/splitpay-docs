@@ -1,3 +1,4 @@
+// SDK transaction submission and confirmation polling
 // splitpay-sdk typed Soroban client
 import React from "react";
 import { CodeBlock } from "@/components/CodeBlock";
