@@ -1,3 +1,4 @@
+// Dynamic route handler with SSG pre-rendering
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { ALL_DOC_PAGES, getPageBySlug } from "@/lib/navigation";
