@@ -1,3 +1,4 @@
+// Next.js configuration for production deployment
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
