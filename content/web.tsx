@@ -1,3 +1,4 @@
+// Component architecture
 // Web code blocks styling
 // Updated typography for web overview
 // splitpay-web environment variables
