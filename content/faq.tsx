@@ -1,3 +1,4 @@
+// Frequently asked questions
 import React from "react";
 import { TocItem } from "@/types/docs";
 
