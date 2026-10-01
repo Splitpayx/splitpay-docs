@@ -1,3 +1,4 @@
+// splitpay-web environment variables
 // splitpay-web architecture and contract client
 import React from "react";
 import { CodeBlock } from "@/components/CodeBlock";
