@@ -1,3 +1,4 @@
+// SplitPay brandmark integration
 // Sticky documentation topbar with search trigger and DApp link
 "use client";
 
