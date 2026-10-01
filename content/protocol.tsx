@@ -1,3 +1,4 @@
+// Error variants and numerical codes
 // Storage footprint and expiration ledger settings
 // Soroban smart contract architecture and function signatures
 import React from "react";
