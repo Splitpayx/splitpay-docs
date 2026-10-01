@@ -1,3 +1,4 @@
+// Event schema reference tables
 // Complete error catalog
 // Contract and SDK API reference tables
 import React from "react";
