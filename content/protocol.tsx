@@ -1,3 +1,4 @@
+// Math and rounding specifications
 // Protocol event topics and payload schemas
 // Error variants and numerical codes
 // Storage footprint and expiration ledger settings
