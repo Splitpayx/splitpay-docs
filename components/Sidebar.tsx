@@ -1,3 +1,4 @@
+// Responsive navigation drawer
 // Responsive documentation sidebar with active route highlighting
 "use client";
 
