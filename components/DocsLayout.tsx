@@ -1,3 +1,4 @@
+// Mobile drawer accessibility
 // Two-column responsive documentation layout
 "use client";
 
