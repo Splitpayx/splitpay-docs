@@ -1,3 +1,4 @@
+// Exported interface definitions for documentation navigation, TOC, and search index
 export interface TocItem {
   id: string;
   text: string;
