@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("http://splitpaydocs.samkiel.dev"),
   title: {
     template: "%s | SplitPay Docs",
     default: "SplitPay Documentation — Stellar & Soroban Payment Protocol",
@@ -30,7 +31,7 @@ export const metadata: Metadata = {
     title: "SplitPay Documentation — Stellar & Soroban Payment Protocol",
     description:
       "Automated, mathematically verified payment splitting protocol built natively on Stellar and Soroban smart contracts.",
-    url: "https://splitpay.samkiel.dev/",
+    url: "http://splitpaydocs.samkiel.dev/",
     siteName: "SplitPay Docs",
     type: "website",
   },

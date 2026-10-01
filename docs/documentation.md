@@ -16,6 +16,19 @@ The system consists of:
 
 The blockchain is responsible for financial rules and settlement that require verifiability.
 
+## Ecosystem Links
+* **Official Documentation Hub:** [http://splitpaydocs.samkiel.dev/](http://splitpaydocs.samkiel.dev/)
+* **Live Web Application:** [http://splitpay.samkiel.dev/](http://splitpay.samkiel.dev/)
+* **GitHub Organization:** [https://github.com/Splitpayx](https://github.com/Splitpayx)
+* **Contract Specification:** [http://splitpaydocs.samkiel.dev/docs/protocol/contract-overview](http://splitpaydocs.samkiel.dev/docs/protocol/contract-overview)
+* **Web Architecture:** [http://splitpaydocs.samkiel.dev/docs/web/overview](http://splitpaydocs.samkiel.dev/docs/web/overview)
+* **Mobile Roadmap:** [http://splitpaydocs.samkiel.dev/docs/mobile/overview](http://splitpaydocs.samkiel.dev/docs/mobile/overview)
+* **SDK Client Reference:** [http://splitpaydocs.samkiel.dev/docs/sdk/overview](http://splitpaydocs.samkiel.dev/docs/sdk/overview)
+* **API & Indexer Services:** [http://splitpaydocs.samkiel.dev/docs/api/overview](http://splitpaydocs.samkiel.dev/docs/api/overview)
+* **Interactive Guides:** [http://splitpaydocs.samkiel.dev/docs/guides/create-a-pool](http://splitpaydocs.samkiel.dev/docs/guides/create-a-pool)
+* **API & Errors Reference:** [http://splitpaydocs.samkiel.dev/docs/reference/contract](http://splitpaydocs.samkiel.dev/docs/reference/contract)
+
+
 The application layer is responsible for UX, metadata and services that do not need to live on-chain.
 
 ---

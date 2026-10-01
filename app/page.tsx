@@ -333,6 +333,15 @@ export default function HomePage() {
 
           <div className="flex items-center gap-4">
             <a
+              href="http://splitpaydocs.samkiel.dev/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-[var(--accent)] transition-colors"
+            >
+              Docs (splitpaydocs.samkiel.dev)
+            </a>
+            <span>•</span>
+            <a
               href="http://splitpay.samkiel.dev/"
               target="_blank"
               rel="noopener noreferrer"
