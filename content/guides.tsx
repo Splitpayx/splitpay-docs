@@ -1,3 +1,4 @@
+// Custom SEP-41 token integration
 // End-to-end integration and operations guides
 import React from "react";
 import { CodeBlock } from "@/components/CodeBlock";
