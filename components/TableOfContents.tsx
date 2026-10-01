@@ -1,3 +1,4 @@
+// TableOfContents with scrollspy IntersectionObserver
 "use client";
 
 import React, { useEffect, useState } from "react";
