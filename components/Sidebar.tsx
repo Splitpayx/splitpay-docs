@@ -1,3 +1,4 @@
+// Responsive documentation sidebar with active route highlighting
 "use client";
 
 import React from "react";
