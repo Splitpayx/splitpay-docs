@@ -1,5 +1,3 @@
-// Callout visual improvements
-// Callout component supporting info, warning, important, and tip variants
 import React from "react";
 import { Info, Lightbulb, AlertTriangle, AlertOctagon, CheckCircle2 } from "lucide-react";
 

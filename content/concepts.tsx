@@ -1,5 +1,3 @@
-// Invariants and security audit checklist
-// Core protocol concepts: basis points, atomic settlement
 import React from "react";
 import { CodeBlock } from "@/components/CodeBlock";
 import { Callout } from "@/components/Callout";

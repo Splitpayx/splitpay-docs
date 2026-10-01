@@ -1,5 +1,3 @@
-// Search performance
-// SearchModal modal dialog with real-time indexing
 "use client";
 
 import React, { useState, useEffect, useRef } from "react";

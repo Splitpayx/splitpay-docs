@@ -1,4 +1,3 @@
-// CodeBlock with syntax styling, clipboard copy, and visual feedback
 "use client";
 
 import React, { useState } from "react";

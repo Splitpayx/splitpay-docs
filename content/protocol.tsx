@@ -1,8 +1,3 @@
-// Math and rounding specifications
-// Protocol event topics and payload schemas
-// Error variants and numerical codes
-// Storage footprint and expiration ledger settings
-// Soroban smart contract architecture and function signatures
 import React from "react";
 import { CodeBlock } from "@/components/CodeBlock";
 import { Callout } from "@/components/Callout";

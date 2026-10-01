@@ -1,4 +1,3 @@
-<!-- Global SplitPay Documentation Source of Truth -->
 # SplitPay
 
 ## 1. Overview

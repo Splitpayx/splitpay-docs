@@ -1,5 +1,3 @@
-// Mobile drawer accessibility
-// Two-column responsive documentation layout
 "use client";
 
 import React, { useState } from "react";

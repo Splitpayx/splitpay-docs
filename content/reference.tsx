@@ -1,6 +1,3 @@
-// Event schema reference tables
-// Complete error catalog
-// Contract and SDK API reference tables
 import React from "react";
 import { CodeBlock } from "@/components/CodeBlock";
 import { TocItem } from "@/types/docs";

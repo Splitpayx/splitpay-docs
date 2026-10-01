@@ -1,4 +1,3 @@
-// Favicon and brand metadata configuration
 import type { Metadata } from "next";
 import "./globals.css";
 

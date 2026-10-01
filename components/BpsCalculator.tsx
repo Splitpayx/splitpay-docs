@@ -1,5 +1,3 @@
-// Real-time remainder distribution calculation
-// Interactive on-chain 10,000 basis points calculator simulating integer distribution
 "use client";
 
 import React, { useState } from "react";
