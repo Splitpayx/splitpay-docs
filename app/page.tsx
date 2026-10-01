@@ -1,3 +1,4 @@
+// SplitPay documentation homepage landing view
 "use client";
 
 import React, { useState } from "react";
