@@ -1,3 +1,4 @@
+// Soroban RPC simulation and transaction footprint guide
 // Custom SEP-41 token integration
 // End-to-end integration and operations guides
 import React from "react";
