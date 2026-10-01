@@ -1,3 +1,4 @@
+// Sticky documentation topbar with search trigger and DApp link
 "use client";
 
 import React, { useState, useEffect } from "react";
