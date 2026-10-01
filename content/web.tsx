@@ -1,3 +1,4 @@
+// Updated typography for web overview
 // splitpay-web environment variables
 // splitpay-web architecture and contract client
 import React from "react";
