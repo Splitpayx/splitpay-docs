@@ -1,3 +1,4 @@
+// Search performance
 // SearchModal modal dialog with real-time indexing
 "use client";
 
