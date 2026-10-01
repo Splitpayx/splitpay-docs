@@ -1,3 +1,4 @@
+// Navigation registry indexing all 12 modules and 58 ecosystem documentation topics
 import { DocSection } from "@/types/docs";
 
 export const DOC_SECTIONS: DocSection[] = [
