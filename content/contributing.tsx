@@ -1,3 +1,4 @@
+// Contribution guidelines and PR standards
 import React from "react";
 import { CodeBlock } from "@/components/CodeBlock";
 import { Callout } from "@/components/Callout";
