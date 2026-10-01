@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Geist+Mono:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap");
+@import "tailwindcss";
+
+:root {
+  --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-heading: "Space Grotesk", sans-serif;
+  --font-mono: "Geist Mono", monospace;
+
+  /* Brand Palette (Dark Mode Default) */
+  --bg-app: #0B1A33;
+  --bg-card: #0F2340;
+  --bg-card-hover: #142c52;
+  --bg-subtle: #081326;
+  --bg-input: #0F2340;
+
+  --border-subtle: #162947;
+  --border-default: #1E3358;
+  --border-active: #2b497a;
+  --border-focus: rgba(20, 184, 166, 0.5);
+
+  --text-primary: #FFFFFF;
+  --text-secondary: #94A3B8;
+  --text-muted: #64748B;
+
+  --accent: #14B8A6;
+  --accent-hover: #0D9488;
+  --accent-subtle: rgba(20, 184, 166, 0.12);
+  --accent-border: rgba(20, 184, 166, 0.3);
+
+  --code-bg: #07101E;
+}
+
+[data-theme="light"] {
+  --bg-app: #F8FAFC;
+  --bg-card: #FFFFFF;
+  --bg-card-hover: #F1F5F9;
+  --bg-subtle: #EDF2F7;
+  --bg-input: #FFFFFF;
+
+  --border-subtle: #E2E8F0;
+  --border-default: #CBD5E1;
+  --border-active: #94A3B8;
+  --border-focus: rgba(13, 148, 136, 0.5);
+
+  --text-primary: #0F172A;
+  --text-secondary: #475569;
+  --text-muted: #64748B;
+
+  --accent: #0D9488;
+  --accent-hover: #0F766E;
+  --accent-subtle: rgba(13, 148, 136, 0.08);
+  --accent-border: rgba(13, 148, 136, 0.25);
+
+  --code-bg: #0F172A;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  background-color: var(--bg-app);
+  color: var(--text-primary);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  letter-spacing: -0.02em;
+}
+
+code, pre, kbd {
+  font-family: var(--font-mono);
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border-default);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent);
+}
+
+/* Smooth anchor offsets */
+[id] {
+  scroll-margin-top: 6rem;
+}
